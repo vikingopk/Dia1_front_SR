@@ -13,7 +13,7 @@
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="registro.php">Registrate</a>
                     </li>
-                    <li><a href="#">News</a></li>
+                    <li><a href="generos.php">News</a></li>
 
                     
                 </ul>

@@ -16,11 +16,15 @@
 
 
 <?php include ("header.php");?>
-<?php include ("generos.php");?>
+
+
+<?php include ("bienvenida.php");?>
 
 
 
 
+
+<?php include ("footer.php");?>
 
 	
 </body>

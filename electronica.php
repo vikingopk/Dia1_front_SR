@@ -10,16 +10,20 @@
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 <script type="text/javascript" src="js/js.js"></script>
 <script type="text/javascript" src="js/npm.js"></script>
-	
+  
 </head>
 <body>
 
-
 <?php include ("header.php");?>
 
+<?php include ("headerestilos.php");?>
 
+<h1>Electronica</h1>
+
+<?php include ("users.php");?>      
+
+<?php include ("pages.php");?>
 <?php include ("footer.php");?>
 
-	
 </body>
 </html>

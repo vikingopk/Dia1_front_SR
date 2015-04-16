@@ -45,8 +45,8 @@
           <img src="http://placehold.it/482x350" alt="" class="thumb">
         </a>
         <div class="block-title">
-          <h2>Lorem ipsum dolor asit amet</h2>
-          <p class="by-author"><small>By Jhon Doe</small></p>
+          <h2><a href="#">Info de Banda</a></h2>
+          <p class="by-author"><small>By<a href="#"> Usuario</a></small></p>
         </div>
       </div>
       <!-- /.featured-article -->
@@ -58,8 +58,9 @@
             <img class="media-object" src="http://placehold.it/150x90" alt="...">
           </a>
           <div class="media-body">
-            <h4 class="media-heading">Lorem ipsum dolor asit amet</h4>
-            <p class="by-author">By Jhon Doe</p>
+            <h4 class="media-heading"><a href="#">Nombre de la Banda</a></h4>
+            <p class="by-author">By<a href="#"> Usuario</a></p>
+            <p class="by-author">5.000 visualizaciones</p>
           </div>
         </li>
         <li class="media">
@@ -67,8 +68,9 @@
             <img class="media-object" src="http://placehold.it/150x90" alt="...">
           </a>
           <div class="media-body">
-            <h4 class="media-heading">Lorem ipsum dolor asit amet</h4>
-            <p class="by-author">By Jhon Doe</p>
+            <h4 class="media-heading"><a href="#">Nombre de la Banda</a></h4>
+            <p class="by-author">By <a href="#">Usuario</a></p>
+            <p class="by-author">5.000 visualizaciones</p>
           </div>
         </li>
         <li class="media">
@@ -76,8 +78,9 @@
             <img class="media-object" src="http://placehold.it/150x90" alt="...">
           </a>
           <div class="media-body">
-            <h4 class="media-heading">Lorem ipsum dolor asit amet</h4>
-            <p class="by-author">By Jhon Doe</p>
+            <h4 class="media-heading"><a href="#">Nombre de la Banda</a></h4>
+            <p class="by-author">By<a href="#"> Usuario</a></p>
+            <p class="by-author">5.000 visualizaciones</p>
           </div>
         </li>
       </ul>
@@ -109,8 +112,8 @@
           <img src="http://placehold.it/482x350" alt="" class="thumb">
         </a>
         <div class="block-title">
-          <h2>Lorem ipsum dolor asit amet</h2>
-          <p class="by-author"><small>By Jhon Doe</small></p>
+          <h2><a href="#">Info de Banda</a></h2>
+          <p class="by-author"><small>By <a href="#">Usuario</a></small></p>
         </div>
       </div>
       <!-- /.featured-article -->
@@ -122,8 +125,9 @@
             <img class="media-object" src="http://placehold.it/150x90" alt="...">
           </a>
           <div class="media-body">
-            <h4 class="media-heading">Lorem ipsum dolor asit amet</h4>
-            <p class="by-author">By Jhon Doe</p>
+            <h4 class="media-heading"><a href="#">Nombre de la Banda</a></h4>
+            <p class="by-author">By <a href="#">Usuario</a></p>
+            <p class="by-author">5.000 visualizaciones</p>
           </div>
         </li>
         <li class="media">
@@ -131,8 +135,9 @@
             <img class="media-object" src="http://placehold.it/150x90" alt="...">
           </a>
           <div class="media-body">
-            <h4 class="media-heading">Lorem ipsum dolor asit amet</h4>
-            <p class="by-author">By Jhon Doe</p>
+            <h4 class="media-heading"><a href="#">Nombre de la Banda</a></h4>
+            <p class="by-author">By <a href="#">Usuario</a></p>
+            <p class="by-author">5.000 visualizaciones</p>
           </div>
         </li>
         <li class="media">
@@ -140,8 +145,9 @@
             <img class="media-object" src="http://placehold.it/150x90" alt="...">
           </a>
           <div class="media-body">
-            <h4 class="media-heading">Lorem ipsum dolor asit amet</h4>
-            <p class="by-author">By Jhon Doe</p>
+            <h4 class="media-heading"><a href="#">Nombre de la Banda</a></h4>
+            <p class="by-author">By <a href="#"> Usuario</a></p>
+            <p class="by-author">5.000 visualizaciones</p>
           </div>
         </li>
       </ul>
@@ -153,7 +159,7 @@
         <hr class="hr-success" />
         <ol class="breadcrumb bread-success">
             <button href="#" class="btn btn-success"><i class="fa fa-life-ring"></i> ESTILOS</button>
-            <li><a href="#">Hard Rock</a></li>
+            <li><a href="hardrock.php">Hard Rock</a></li>
             <li><a href="#">Metal</a></li>
             <li><a href="#">Alternativo</a></li>
             <li><a href="#">Hip Hop/rap</a></li>
@@ -182,8 +188,8 @@
           <img src="http://placehold.it/482x350" alt="" class="thumb">
         </a>
         <div class="block-title">
-          <h2>Lorem ipsum dolor asit amet</h2>
-          <p class="by-author"><small>By Jhon Doe</small></p>
+          <h2><a href="#">Info de Banda</a></h2>
+          <p class="by-author"><small>By <a href="#">Usuario</a></small></p>
         </div>
       </div>
       <!-- /.featured-article -->
@@ -195,8 +201,9 @@
             <img class="media-object" src="http://placehold.it/150x90" alt="...">
           </a>
           <div class="media-body">
-            <h4 class="media-heading">Lorem ipsum dolor asit amet</h4>
-            <p class="by-author">By Jhon Doe</p>
+            <h4 class="media-heading"><a href="#">Nombre de la Banda</a></h4>
+            <p class="by-author">By <a href="#">Usuario</a></p>
+            <p class="by-author">5.000 visualizaciones</p>
           </div>
         </li>
         <li class="media">
@@ -204,8 +211,9 @@
             <img class="media-object" src="http://placehold.it/150x90" alt="...">
           </a>
           <div class="media-body">
-            <h4 class="media-heading">Lorem ipsum dolor asit amet</h4>
-            <p class="by-author">By Jhon Doe</p>
+            <h4 class="media-heading"><a href="#">Nombre de la Banda</a></h4>
+            <p class="by-author">By <a href="#">Usuario</a></p>
+            <p class="by-author">5.000 visualizaciones</p>
           </div>
         </li>
         <li class="media">
@@ -213,8 +221,9 @@
             <img class="media-object" src="http://placehold.it/150x90" alt="...">
           </a>
           <div class="media-body">
-            <h4 class="media-heading">Lorem ipsum dolor asit amet</h4>
-            <p class="by-author">By Jhon Doe</p>
+            <h4 class="media-heading"><a href="#">Nombre de la Banda</a></h4>
+            <p class="by-author">By <a href="#">Usuario</a></p>
+            <p class="by-author">5.000 visualizaciones</p>
           </div>
         </li>
       </ul>
@@ -245,8 +254,8 @@
           <img src="http://placehold.it/482x350" alt="" class="thumb">
         </a>
         <div class="block-title">
-          <h2>Lorem ipsum dolor asit amet</h2>
-          <p class="by-author"><small>By Jhon Doe</small></p>
+          <h2><a href="#">Info de Banda</a></h2>
+          <p class="by-author"><small>By <a href="#">Usuario</a></small></p>
         </div>
       </div>
       <!-- /.featured-article -->
@@ -258,8 +267,9 @@
             <img class="media-object" src="http://placehold.it/150x90" alt="...">
           </a>
           <div class="media-body">
-            <h4 class="media-heading">Lorem ipsum dolor asit amet</h4>
-            <p class="by-author">By Jhon Doe</p>
+            <h4 class="media-heading"><a href="#">Nombre de la Banda</a></h4>
+            <p class="by-author">By <a href="#">Usuario</a></p>
+            <p class="by-author">5.000 visualizaciones</p>
           </div>
         </li>
         <li class="media">
@@ -267,8 +277,9 @@
             <img class="media-object" src="http://placehold.it/150x90" alt="...">
           </a>
           <div class="media-body">
-            <h4 class="media-heading">Lorem ipsum dolor asit amet</h4>
-            <p class="by-author">By Jhon Doe</p>
+            <h4 class="media-heading"><a href="#">Nombre de la Banda</a></h4>
+            <p class="by-author">By <a href="#">Usuario</a></p>
+            <p class="by-author">5.000 visualizaciones</p>
           </div>
         </li>
         <li class="media">
@@ -276,8 +287,9 @@
             <img class="media-object" src="http://placehold.it/150x90" alt="...">
           </a>
           <div class="media-body">
-            <h4 class="media-heading">Lorem ipsum dolor asit amet</h4>
-            <p class="by-author">By Jhon Doe</p>
+            <h4 class="media-heading"><a href="#">Nombre de la Banda</a></h4>
+            <p class="by-author">By <a href="#">Usuario</a></p>
+            <p class="by-author">5.000 visualizaciones</p>
           </div>
         </li>
       </ul>
